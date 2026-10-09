@@ -1,0 +1,21 @@
+# Web Animation
+
+- **gsap-core** — Official GSAP: core API — to/from/fromTo, easing, stagger, matchMedia, reduced motion.
+- **gsap-timeline** — Official GSAP: timelines, position parameter, nesting, playback.
+- **gsap-scrolltrigger** — GSAP ScrollTrigger: scroll-driven animation, pinning, scrubbing.
+- **gsap-plugins** — Official GSAP: plugins — Flip, Draggable, SplitText, ScrollSmoother, SVG, physics.
+- **gsap-react** — Official GSAP: React/Next.js — useGSAP, refs, context, cleanup.
+- **gsap-frameworks** — Official GSAP: Vue, Svelte and other frameworks — lifecycle and cleanup.
+- **gsap-performance** — Official GSAP: performance — transforms, avoiding layout thrash, batching.
+- **gsap-utils** — Official GSAP: gsap.utils helpers — clamp, mapRange, interpolate, snap, wrap.
+- **motion-framer** — Motion (Framer Motion) for React: variants, gestures, layout animations.
+- **animejs** — Anime.js: timelines, staggers, SVG morphing, keyframes.
+- **react-spring-physics** — Physics-based animation with React Spring and Popmotion.
+- **lottie-animations** — Lottie (After Effects JSON) animations in web and React.
+- **rive-interactive** — Rive state-machine vector animations with runtime interactivity.
+- **barba-js** — Barba.js page transitions between website pages.
+- **locomotive-scroll** — Locomotive Scroll smooth scrolling, parallax and viewport detection.
+- **scroll-reveal-libraries** — Simple scroll-triggered reveals with AOS for marketing/landing pages.
+- **animated-component-libraries** — Ready-made animated React components from Magic UI and React Bits.
+- **vercel-react-view-transitions** — React View Transition API for smooth native-feeling page/state transitions.
+- **remotion-motion-graphics** — Motion-graphics videos built in React with Remotion.
