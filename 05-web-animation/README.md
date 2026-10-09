@@ -19,3 +19,7 @@
 - **animated-component-libraries** — Ready-made animated React components from Magic UI and React Bits.
 - **vercel-react-view-transitions** — React View Transition API for smooth native-feeling page/state transitions.
 - **remotion-motion-graphics** — Motion-graphics videos built in React with Remotion.
+- **expo-animation** — Animations in React Native and Expo, decided in the order that matters for performance.
+- **remotion-best-practices** — Router/entry point for all the Remotion video skills.
+- **remotion-markup** — Remotion content, animation and effects best practices.
+- **remotion-captions** — Transcribe, display and animate captions in Remotion videos.

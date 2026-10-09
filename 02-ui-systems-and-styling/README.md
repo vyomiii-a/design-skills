@@ -8,3 +8,5 @@
 - **web-design-guidelines** — Reviews UI code against Web Interface Guidelines (accessibility, UX, best practice).
 - **web-artifacts-builder** — Builds multi-component HTML artifacts with React, Tailwind and shadcn/ui.
 - **mobile-native** — CSS and meta-tag fixes that make a web app feel installed/native on a phone.
+- **shadcn** — shadcn/ui CLI, component installation, composition, custom registries and theming.
+- **a11y-debugging** — Accessibility audits and debugging in Chrome DevTools, based on web.dev guidelines.

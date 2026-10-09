@@ -8,3 +8,6 @@
 - **algorithmic-art** — Generative art with p5.js, seeded randomness and interactive parameters.
 - **slides** — Strategic HTML presentations with Chart.js, design tokens and slide copywriting formulas.
 - **unsplash** — Search and fetch Unsplash photos with correct attribution.
+- **image** — Create, generate, edit and optimize marketing images: blog heroes, social graphics, product shots.
+- **ad-creative-generation** — On-brand ad creatives (visuals + copy) for Google, Meta and other ad platforms.
+- **slack-gif-creator** — Animated GIFs sized and optimized for Slack.
