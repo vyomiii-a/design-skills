@@ -9,7 +9,7 @@ Copy whichever skill folders you want into `~/.claude/skills/` (personal) or `.c
 ```sh
 cp -R 05-web-animation/gsap-core ~/.claude/skills/
 # or everything:
-cp -R */*/ ~/.claude/skills/
+for d in */*/; do cp -R "${d%/}" ~/.claude/skills/; done
 ```
 
 Each folder contains a `SKILL.md` (Claude loads it automatically when relevant) plus any references/scripts it needs.
